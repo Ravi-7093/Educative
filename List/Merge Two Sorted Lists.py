@@ -1,3 +1,5 @@
+def merge_lists(lst1, lst2):
+    # Write your code here
     res=[]
     lst1.sort()
     lst2.sort()
